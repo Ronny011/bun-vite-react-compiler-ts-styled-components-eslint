@@ -25,6 +25,7 @@ export default defineConfig([
     },
     rules: {
       'react/jsx-key': 'warn',
+      'no-unused-expressions': 'warn',
       'object-shorthand': ['error', 'always'],
       '@typescript-eslint/no-unused-vars': [
         'warn',
