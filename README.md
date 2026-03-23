@@ -1,4 +1,4 @@
-# vite-react-compiler-ts-styled-components-eslint
+# bun-vite-react-compiler-ts-styled-components-eslint
 
 Basic, up to date, hypeless, preconfigured frontend stack to hit the ground running.
 
